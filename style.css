@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(img/sastra.jpg);
+  background-size: cover;
+  height: 232px;
+}
+
+.card {
+  padding-top: 6rem;
+}
+
+h1 {
+  padding-inline-start: 1rem;
+}
+
+.button {
+  position: relative;
+}
+
+.poto {
+  padding-inline-start: 1rem;
+}
